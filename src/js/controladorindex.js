@@ -7,3 +7,5 @@ if(true){
 }
 
 console.log(`hola ${nombre}`)
+
+console.log("hola")
