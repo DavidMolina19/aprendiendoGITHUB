@@ -9,3 +9,4 @@ if(true){
 console.log(`hola ${nombre}`)
 
 console.log("hola")
+console.log("adios")
